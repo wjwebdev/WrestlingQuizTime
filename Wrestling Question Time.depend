@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709665069 source:c:\users\wayne\documents\wrestling question time\wrestling question time\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
