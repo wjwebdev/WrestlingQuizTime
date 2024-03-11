@@ -5,14 +5,6 @@
 int main()
 {
 
-
-    int score = 5;
-    score+= score;
-
-    printf("Score is:%d", score);
-
-    return 0;
-    /*
     char playerName[30];
     char playerAnswer;
     int playerScore = 0;
@@ -257,8 +249,8 @@ int main()
     {
         printf("YOU FAILED TO ANSWER ALL THE QUESTIONS CORRECTLY.\n");
     }
-    */
 
+    return 0;
 }
 
 
